@@ -1,0 +1,62 @@
+
+PHP is a server scripting language
+
+server
+xampp => all os apache, my squl, php ,prl
+
+serche (service ) stop win--
+
+1)  http://localhost/dashboard/phpinfo.php
+
+2)  ctrl+f ( timezone)
+
+3) config -> php.ini -> ctrl+f (display)
+
+ ; display_errors => display_errors لكى يعمل الكود نحذف التعليق 
+
+ ; error_reporting => error_reporting=E_ALL
+ 
+ ;html_errors = On => html_errors = On
+
+ ;date.timezone =   => date.timezone = "Africa/Cairo"     تجد منها اثنين                         
+
+ php timezone in google-تجد- List of Supported Timezones- Africa-  Africa/Cairo 
+
+IDE=>integrated development environment
+
+يوجد بيئة تطوير 
+
+
+-NetBeans IDE 
+- Sublime Text 
+-Visual Studio Code 
+- Atom 
+- Brackets 
+- Notepadd++
+-Eclipse
+---------------------------
+https://java.com/en/download/
+
+cmd => java -version
+            اذا لم يظهر نتأكد من وجود المسار عن طريق 
+click يمين -properties -advanced system settings -environment variables-path -edit -new -C:\Program Files\Java\jdk-11.0.2\bin
+
+--------------------------
+eclipse
+file -switch workspace-other نختار المسار c/exampp/htdocs
+
+new php project ونشغل exampp
+localhost/اسم الفولدر
+
+-------------------------------
+netbeans
+https://netbeans.org/downloads/6.1/index.html
+
+
+
+
+
+
+
+
+
